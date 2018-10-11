@@ -1,0 +1,6 @@
+D:\Web Api\Practice Console\Agrregate Linq\StringAggregate\bin\Debug\StringAggregate.exe.config
+D:\Web Api\Practice Console\Agrregate Linq\StringAggregate\bin\Debug\StringAggregate.exe
+D:\Web Api\Practice Console\Agrregate Linq\StringAggregate\bin\Debug\StringAggregate.pdb
+D:\Web Api\Practice Console\Agrregate Linq\StringAggregate\obj\Debug\StringAggregate.csprojResolveAssemblyReference.cache
+D:\Web Api\Practice Console\Agrregate Linq\StringAggregate\obj\Debug\StringAggregate.exe
+D:\Web Api\Practice Console\Agrregate Linq\StringAggregate\obj\Debug\StringAggregate.pdb

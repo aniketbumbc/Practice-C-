@@ -1,0 +1,5 @@
+D:\Web Api\Practice Console\Test Grade\Test Grade\bin\Debug\Test Grade.exe.config
+D:\Web Api\Practice Console\Test Grade\Test Grade\bin\Debug\Test Grade.exe
+D:\Web Api\Practice Console\Test Grade\Test Grade\bin\Debug\Test Grade.pdb
+D:\Web Api\Practice Console\Test Grade\Test Grade\obj\Debug\Test Grade.exe
+D:\Web Api\Practice Console\Test Grade\Test Grade\obj\Debug\Test Grade.pdb

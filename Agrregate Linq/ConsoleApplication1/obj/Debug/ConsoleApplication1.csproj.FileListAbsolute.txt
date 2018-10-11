@@ -1,0 +1,5 @@
+D:\Web Api\Practice Console\Agrregate Linq\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Web Api\Practice Console\Agrregate Linq\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Web Api\Practice Console\Agrregate Linq\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Web Api\Practice Console\Agrregate Linq\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Web Api\Practice Console\Agrregate Linq\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

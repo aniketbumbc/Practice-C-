@@ -1,0 +1,6 @@
+D:\Web Api\Practice Console\Agrregate Linq\Agrregate Linq\bin\Debug\Agrregate Linq.exe.config
+D:\Web Api\Practice Console\Agrregate Linq\Agrregate Linq\bin\Debug\Agrregate Linq.exe
+D:\Web Api\Practice Console\Agrregate Linq\Agrregate Linq\bin\Debug\Agrregate Linq.pdb
+D:\Web Api\Practice Console\Agrregate Linq\Agrregate Linq\obj\Debug\Agrregate Linq.csprojResolveAssemblyReference.cache
+D:\Web Api\Practice Console\Agrregate Linq\Agrregate Linq\obj\Debug\Agrregate Linq.exe
+D:\Web Api\Practice Console\Agrregate Linq\Agrregate Linq\obj\Debug\Agrregate Linq.pdb

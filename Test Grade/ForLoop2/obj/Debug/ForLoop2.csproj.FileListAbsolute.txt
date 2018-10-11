@@ -1,0 +1,5 @@
+D:\Web Api\Practice Console\Test Grade\ForLoop2\bin\Debug\ForLoop2.exe.config
+D:\Web Api\Practice Console\Test Grade\ForLoop2\bin\Debug\ForLoop2.exe
+D:\Web Api\Practice Console\Test Grade\ForLoop2\bin\Debug\ForLoop2.pdb
+D:\Web Api\Practice Console\Test Grade\ForLoop2\obj\Debug\ForLoop2.exe
+D:\Web Api\Practice Console\Test Grade\ForLoop2\obj\Debug\ForLoop2.pdb
